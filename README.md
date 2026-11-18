@@ -1,4 +1,4 @@
-# Integrated Spatial–Classification (ISC) Evaluation for Mineral Prospectivity Mapping
+# Integrated Spatial–Classification (ISC) Evaluation for Mineral Prospectivity Modelling
 
 Implementation of the ISC framework, demonstrated through continental-scale prospectivity mapping for Mississippi Valley-type (MVT) Zn–Pb mineralization in Canada.
 
