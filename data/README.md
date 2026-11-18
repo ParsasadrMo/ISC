@@ -68,7 +68,7 @@ The proximity distances identify the predictor layers. Predictor values reflect 
 
 **Positive labels.** Cells with `target = 1` host known MVT Zn–Pb mineralization.
 
-**Set A.** Cells with `SetA = 1` belong to the negative-label set derived from selected magmatic mineralization, including magmatic nickel, lithium–cesium–tantalum pegmatites, and carbonatite-hosted rare earth element ± niobium mineralization.
+**Set A.** Cells with `SetA = 1` belong to the negative-label set randomly selected from locations at least 100 km from known MVT Zn–Pb mineralization.
 
 **Set B.** Cells with `SetB = 1` belong to the negative-label set randomly selected from locations at least 100 km from known MVT Zn–Pb mineralization.
 
@@ -86,4 +86,27 @@ Exploration coverage is calculated as the number of selected cells divided by th
 
 Consult the repository's main README for the associated manuscript and citation details.
 
-**Dataset licence:** [Insert the applicable dataset licence and any source-specific attribution requirements before publication.]
+## Data source and reuse terms
+
+This dataset is derived from:
+
+Parsa, M., Lawley, C.J.M., Schetselaar, E., Martins, T., and
+Thompson, A., 2026. Multicomponent geospatial data for predictive
+mapping of Canadian critical minerals. Geological Survey of
+Canada, Open File 9270e.
+https://doi.org/10.4095/p80q4bhma6
+
+The accompanying source publication permits personal and public
+non-commercial reproduction with attribution. Commercial reproduction
+and distribution require written permission from Natural Resources
+Canada.
+
+H3Polygon4ISC.gpkg is a modified derivative prepared for the ISC
+case study. Modifications include predictor selection, an additional
+sedimentary-bedrock predictor, revised labels, and polygon geometry.
+
+This derivative has been prepared by the study authors. Its distribution
+does not imply endorsement by Natural Resources Canada.
+
+Source permissions contact:
+copyright-droitdauteur@nrcan-rncan.gc.ca
