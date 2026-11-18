@@ -14,6 +14,31 @@ ISC evaluates the recovery of known mineralized cells against a weighted combina
 
 ## Contents
 
+
+## Selected results
+
+### Prospectivity models
+
+Prospectivity maps generated using negative-label Sets A and B.
+Pink circles indicate known MVT Zn–Pb mineralization.
+
+![Prospectivity models for Sets A and B](figures/prospectivity_models.png)
+
+### ISC evaluation
+
+Five-fold cross-validation ISC curves averaged across 50 equally
+spaced alpha values from 0 to 2.5.
+
+![Mean cross-validation ISC curves](figures/isc_curves.png)
+
+### Sensitivity to alpha
+
+Changes in mean cross-validation ISC AUC as the weighting
+parameter alpha increases.
+
+![ISC AUC sensitivity to alpha](figures/alpha_sensitivity.png)
+
+
 | File | Description |
 | --- | --- |
 | `ISC_Implementation.ipynb` | Data loading, covariate visualization, label mapping, modelling, cross-validation, evaluation, and prospectivity mapping |
