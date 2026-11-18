@@ -1,0 +1,38 @@
+# Input dataset distributed through GitHub Releases
+/H3Polygon4ISC.gpkg
+/H3Polygon4ISC.gpkg-*
+/H3Polygon4ISC.zip
+/data/H3Polygon4ISC.gpkg
+/data/H3Polygon4ISC.gpkg-*
+/data/H3Polygon4ISC.zip
+
+# Generated modelling results
+/ModelingResults/
+
+# Generated figures in the notebook working directory
+/[1-7]-*.png
+/6-7-prospectivity_models_2x1.png
+/Fig_0_geological_provinces.png
+
+# Jupyter checkpoints and IPython settings
+.ipynb_checkpoints/
+.ipython/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Local virtual environments
+.venv/
+venv/
+env/
+
+# Local environment variables
+.env
+.env.*
+!.env.example
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+Desktop.ini
