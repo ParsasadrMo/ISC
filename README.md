@@ -133,7 +133,22 @@ Citation metadata will be added in `CITATION.cff`. The manuscript citation will 
 
 ## Licence
 
-Code and data reuse terms will be provided following publication.
+REPRODUCTION AND DISTRIBUTION TERMS
+
+Unless a specific exception is identified, material may be reproduced
+wholly or partly, in any medium, free of charge and without additional
+permission for personal or public non-commercial purposes.
+
+When reproducing material:
+
+- Take reasonable care to reproduce it accurately.
+- Identify its complete title and author organization.
+- Acknowledge NRCan as the publisher of the underlying official work and
+  make clear that the reproduction has no NRCan affiliation or endorsement.
+
+Commercial reproduction or distribution requires prior written permission
+from Natural Resources Canada. Requests may be directed to:
+copyright-droitdauteur@nrcan-rncan.gc.ca 
 
 ## Contact
 
