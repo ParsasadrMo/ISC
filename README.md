@@ -140,6 +140,8 @@ Code and data reuse terms will be provided following publication.
 Mohammad Parsa
 
 mohammad.parsasadr@nrcan-rncan.gc.ca
+
+
 [README.md](https://github.com/user-attachments/files/35036052/README.md)
 # ISC
 Integrated Spatial–Classification evaluation for mineral prospectivity mapping.
