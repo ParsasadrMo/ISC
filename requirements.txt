@@ -1,0 +1,21 @@
+# Numerical computing and tabular data
+numpy
+pandas
+
+# Geospatial data and H3 indexing
+geopandas
+pyogrio
+pyarrow
+h3>=4,<5
+
+# Modelling
+scikit-learn
+
+# Plotting and image composition
+matplotlib
+cartopy
+Pillow
+
+# Interactive notebook execution
+jupyterlab
+ipykernel
