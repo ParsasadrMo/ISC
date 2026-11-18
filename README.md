@@ -129,7 +129,7 @@ Fixed random seeds are defined in the notebook. Exact package versions and the c
 
 ## Citation
 
-Citation metadata will be added in `CITATION.cff`. The manuscript citation will be updated following publication.
+The manuscript citation will be updated following publication.
 
 ## Licence
 
