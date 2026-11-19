@@ -5,7 +5,7 @@
 
 ## Download
 
-Download `H3Polygon4ISC.gpkg` from the **Assets** section of the repository's [v1.0.0 release] (https://github.com/ParsasadrMo/ISC/releases/tag/v1.0.0).
+Download `H3Polygon4ISC.gpkg` from the **Assets** section of the repository's [v1.0.0 release](https://github.com/ParsasadrMo/ISC/releases/tag/v1.0.0).
 
 The dataset is distributed as a release attachment. Its file size is approximately 849 MiB (889,962,496 bytes).
 
