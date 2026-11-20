@@ -12,7 +12,7 @@ ISC evaluates mineral prospectivity models by combining exploration coverage and
 
 This project demonstrates the framework using continental-scale mapping of Mississippi Valley-type (MVT) Zn–Pb mineralization in Canada and two alternative negative-label sets.
 
-[View the GitHub repository]({{ site.github.repository_url }}) · [Download the dataset]({{ site.github.repository_url }}/releases/tag/v1.0.0) · [Open the notebook]({{ site.github.repository_url }}/blob/main/ISC_Implementation.ipynb)
+
 
 ## Dataset
 
@@ -20,7 +20,7 @@ The input file, `H3Polygon4ISC.gpkg`, contains 1,820,346 H3 resolution-7 polygon
 
 Set A is derived from selected magmatic mineralization. Set B comprises randomly selected locations at least 100 km from known MVT Zn–Pb mineralization.
 
-[Dataset documentation]({{ site.github.repository_url }}/blob/main/data/README.md)
+
 
 ## Run the workflow
 
@@ -36,27 +36,7 @@ python -m jupyterlab
 
 The notebook covers data visualization, balanced Random Forest ensembles, five-fold cross-validation, evaluation curves, and final prospectivity mapping. Evaluation uses 50 equally spaced α values from 0 to 2.5. Exploration coverage is measured over the full study grid using cell counts.
 
-[Complete setup and execution instructions]({{ site.github.repository_url }}#installation)
 
-## Selected results
-
-### Prospectivity models
-
-Models generated using negative-label Sets A and B. Pink circles indicate known MVT Zn–Pb mineralization.
-
-![Prospectivity maps generated using Sets A and B]({{ site.github.repository_url }}/raw/refs/heads/main/figures/prospectivity_models.png)
-
-### ISC evaluation
-
-Five-fold cross-validation ISC curves averaged across the evaluated α values. Mean ISC AUC is 0.920 for Set A and 0.924 for Set B in the displayed results.
-
-![Mean cross-validation ISC curves]({{ site.github.repository_url }}/raw/refs/heads/main/figures/isc_curves.png)
-
-### Sensitivity to α
-
-Model ranking changes with the relative weight assigned to exploration coverage and false-positive rate.
-
-![Sensitivity of mean cross-validation ISC AUC to alpha]({{ site.github.repository_url }}/raw/refs/heads/main/figures/alpha_sensitivity.png)
 
 ## Manuscript and authors
 
@@ -68,4 +48,4 @@ Mohammad Parsa · Steven E. Zhang · Renato Cumani
 
 The case-study dataset is derived from *Multicomponent geospatial data for predictive mapping of Canadian critical minerals*, Geological Survey of Canada, Open File 9270e, with modifications for this study.
 
-[Source publication](https://doi.org/10.4095/p80q4bhma6) · [Repository reuse terms]({{ site.github.repository_url }}/blob/main/LICENSE)
+[Source publication](https://doi.org/10.4095/p80q4bhma6) ·
