@@ -48,4 +48,4 @@ Mohammad Parsa · Steven E. Zhang · Renato Cumani
 
 The case-study dataset is derived from *Multicomponent geospatial data for predictive mapping of Canadian critical minerals*, Geological Survey of Canada, Open File 9270e, with modifications for this study.
 
-[Source publication](https://doi.org/10.4095/p80q4bhma6) ·
+[Source publication](https://doi.org/10.4095/p80q4bhma6)
