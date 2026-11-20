@@ -105,8 +105,6 @@ H3Polygon4ISC.gpkg is a modified derivative prepared for the ISC
 case study. Modifications include predictor selection, an additional
 sedimentary-bedrock predictor, revised labels, and polygon geometry.
 
-This derivative has been prepared by the study authors. Its distribution
-does not imply endorsement by Natural Resources Canada.
 
 Source permissions contact:
 copyright-droitdauteur@nrcan-rncan.gc.ca
